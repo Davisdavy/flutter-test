@@ -11,6 +11,7 @@ void main() => runApp(MaterialApp(
       child: Text(
           'Hello Ninjas',
         style: TextStyle(
+          fontFamily: 'Montserrat',
           fontSize: 20.0,
           fontWeight: FontWeight.bold,
           letterSpacing: 2.0,
